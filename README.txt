@@ -1,0 +1,3 @@
+Analysis of long-term care (LTC) homes COVID-19 data obtained from the Government of Ontario (link here). 
+
+Data were collected from 2021 to 2022. We identified the maximum and minimum rates, and graph the trend over time between the first and second dose. Some LTCs that have the lowest rates of adherence for staff vaccination. The policy has ended but this might have future implications for future policies. LTC patients are at higher risk for severe consequences from COVID-19, and whether staff are providing protection for the patients are still debated. Second dose especially are lower than the first dose
