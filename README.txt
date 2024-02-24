@@ -1,4 +1,3 @@
-This is an analysis of long-term care (LTC) homes COVID-19 data obtained from the Government of Ontario obtained <a href="https://data.ontario.ca/dataset/long-term-care-home-covid-19-data/resource/f8c54e4a-62b6-4efa-9ce6-a0de42a3867b"> here </a>
-.
+This is an analysis of long-term care (LTC) homes COVID-19 data obtained from the Government of Ontario.
 
 Data were collected from August to December 2021. We first calculated the number of LTCs at each PHU and cities. We then found the average 1st and 2nd vaccination rates at each PHU. We identified the PHUs with the highest 1st and 2nd vaccination rates. For the top 5 PHUs with the highest adherence rates for staff vaccination, we graphed the trends from August to December. The policy has ended but this might have future implications for future policies. LTC patients are at higher risk for severe consequences from COVID-19, so it is important to understand the rates of vaccination among staff. 
